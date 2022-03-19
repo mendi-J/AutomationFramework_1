@@ -1,0 +1,121 @@
+1647522578047	geckodriver	INFO	Listening on 127.0.0.1:64857
+1647522754751	geckodriver	INFO	Listening on 127.0.0.1:65146
+1647522757807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65147" "-no-remote" "-profile" "C:\\Users\\Ndifreke\\AppData\\Local\\Temp\\rust_mozprofileztHBGe"
+1647522764129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ndifreke\\AppData\\Local\\Temp\\rust_mozprofileztHBGe\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:65147/devtools/browser/3d25f227-890b-44ed-a8a6-ba18a94661e0
+1647522781782	Marionette	INFO	Listening on port 65156
+1647522782322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647522794803	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:81117
+1647522805476	Marionette	INFO	Stopped listening on port 65156
+1647522819451	geckodriver	INFO	Listening on 127.0.0.1:65328
+1647522822502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65329" "-no-remote" "-profile" "C:\\Users\\Ndifreke\\AppData\\Local\\Temp\\rust_mozprofileLCz1Ft"
+1647522823600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ndifreke\\AppData\\Local\\Temp\\rust_mozprofileLCz1Ft\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65329/devtools/browser/d0323f04-9e32-4416-9f98-22698c35d50a
+1647522829268	Marionette	INFO	Listening on port 65342
+1647522829366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647522843690	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:81117
+1647522854514	Marionette	INFO	Stopped listening on port 65342
+1647522891863	geckodriver	INFO	Listening on 127.0.0.1:65510
+1647522894750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65511" "-no-remote" "-profile" "C:\\Users\\Ndifreke\\AppData\\Local\\Temp\\rust_mozprofileTE4m85"
+1647522895629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ndifreke\\AppData\\Local\\Temp\\rust_mozprofileTE4m85\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65511/devtools/browser/0a91fd81-d16d-4789-b527-bffe43bf2c1b
+1647522901668	Marionette	INFO	Listening on port 65520
+1647522903024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647522920285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:81117
+1647522930932	Marionette	INFO	Stopped listening on port 65520
+1647522973898	geckodriver	INFO	Listening on 127.0.0.1:49347
+1647522976943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49348" "-no-remote" "-profile" "C:\\Users\\Ndifreke\\AppData\\Local\\Temp\\rust_mozprofilecHQ0J4"
+1647522977655	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ndifreke\\AppData\\Local\\Temp\\rust_mozprofilecHQ0J4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49348/devtools/browser/de85cb3d-6989-4584-8271-fd91528bfba7
+1647522982754	Marionette	INFO	Listening on port 49359
+1647522983919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647523001408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_62332a3bb007e3.91819870/js/jquery/jquery-3.4.1.min.js:2:81117
+1647523011962	Marionette	INFO	Stopped listening on port 49359
